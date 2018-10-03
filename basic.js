@@ -4,4 +4,6 @@
 
 			var x;
 			x="Hello world";
-			alert(x);
+			document.write(x);
+			x=100;
+			document.write(x);
